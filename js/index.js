@@ -72,3 +72,4 @@ console.log(JSON.stringify(ferrariLaFerrari));
 let newFerrari = JSON.parse('{"color":"red","engine":"W12","make":"Ferrari","model":"LaFerrari","year":2009,"price":30000}');
 console.log(newFerrari);
 
+
